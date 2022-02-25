@@ -1,0 +1,135 @@
+body
+{
+    background-image: url("https://images.unsplash.com/photo-1481627834876-b7833e8f5570?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGlicmFyeXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=900&q=60");
+}
+
+.table
+{
+    background-image: url("https://images.unsplash.com/photo-1507608158173-1dcec673a2e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGJhY2tncm91bmR8ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60");
+    background-size: cover;
+    border: 2px;
+    padding: ;
+    width: 100%;
+    text-align: center;
+}
+
+.book_links
+{
+    background-color: #6EBF8B;
+    text-align: centre;
+    border: solid 3px;
+    border-color: black;
+    padding: 5px;
+    width: 100%;
+    margin: 120px;
+    display: inline;
+}
+.book_links:hover
+{
+    background-color: rgb(243, 117, 117);
+    padding: 10px;
+}
+
+.search
+{
+    background-image: url("https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmFja2dyb3VuZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=900&q=60");
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    margin-top: 10px;
+    width: 50%;
+    margin-left: 350px;
+    border: solid 3px;
+    border-color: black;
+}
+.box
+{
+    margin-top: auto;
+    font-size: 30px;
+}
+
+.button
+{
+    background-color: #B8E4C9;
+    padding: 5px;
+    width: 90px;
+    height: 30px;
+}
+.button:hover
+{
+    background-color: #F2A365;
+}
+
+
+.comic_image
+{
+    width: 250px;
+    height: 300px;
+    margin-top: 250px;
+    margin: 40px;
+    border: solid 5px;
+    border-color: black;
+    border-radius: 30%;
+    padding: 5px;
+}
+.comic_image:hover
+{
+    image-rendering:pixelated;
+    cursor: pointer;
+}
+
+.fiction
+{
+    width: 250px;
+    height: 300px;
+    margin-top: 250px;
+    margin: 40px;
+    border: solid 5px;
+    border-color: black;
+    border-radius: 30%;
+    padding: 5px;
+}
+.fiction:hover
+{
+    image-rendering:pixelated;
+    cursor: pointer;
+}
+
+.journals
+{
+    width: 250px;
+    height: 300px;
+    margin-top: 250px;
+    margin: 40px;
+    border: solid 5px;
+    border-color: black;
+    border-radius: 30%;
+    padding: 5px;
+}
+.journals:hover
+{
+    image-rendering:pixelated;
+    cursor: pointer;
+}
+
+.auto_biography
+{
+    width: 250px;
+    height: 300px;
+    margin-top: 250px;
+    margin: 40px;
+    border: solid 5px;
+    border-color: black;
+    border-radius: 30%;
+    padding: 5px;
+}
+.auto_biography
+{
+    image-rendering:crisp-edges;
+    cursor: pointer;
+}
+
+.book_links
+{
+
+}
